@@ -1,12 +1,9 @@
 <?php
 /**
  * Created by PhpStorm.
- * User : Chaos_sir
+ * User : Superseng
  * Date : 2021/3/12
  * Time : 20:48
- * Environmental location ：F:\PHP\php7.0\PHPTutorial\php\php-7.2.1-nts
- * f:
- * cd F:\PHP\php7.0\PHPTutorial\php\php-7.2.1-nts
  **/
 header("content-type:text/html; charset=utf-8");
 $database = [
