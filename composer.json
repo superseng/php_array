@@ -1,0 +1,14 @@
+{
+    "name": "superseng/php_array",
+    "description": "a composer test",
+    "type": "projects",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Super",
+            "email": "superseng@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
